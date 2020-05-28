@@ -1,4 +1,5 @@
-Q) Write a program to generate the following series till N terms and find its sum
+Q) Write a program to generate the following series till 
+N terms and find its sum
             1 3 7 15 31 63 127 …. N.
             
 1)input the limit
